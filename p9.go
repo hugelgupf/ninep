@@ -12,7 +12,7 @@ import (
 
 // 9P2000 message types
 const (
-	Tversion = 100 + iota
+	Tversion = 101 + iota
 	Rversion
 	Tauth
 	Rauth
